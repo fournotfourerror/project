@@ -1,0 +1,35 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Rajesh",
+                "role":"Sr.Web Developer",
+                "email":"rajesh@gmail.com",
+                "mobile":"+91 9878685848"
+            },
+            "education":[
+                {
+                    "degree":"B-Tech-(C.S.E)",
+                    "college":"VVIT"
+                },
+                {
+                    "degree":"Intermediate-(M.P.C)",
+                    "college":"Sree chaitanya"
+                },
+                {
+                    "degree":"S.S.C(CBSE)",
+                    "college":"Venkateswara school"
+                }
+                
+            ]
+        },
+        {
+            "basics":{
+                "name":"Kalyan",
+                "role":"Pega developer",
+                "email":"kalyan@gmail.com",
+                "mobile":"+91 6878984839"
+            }
+        }
+    ]
+}
